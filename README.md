@@ -15,6 +15,9 @@ The core logic involves extracting Mel-Frequency Cepstral Coefficients (MFCCs) f
 
 ---
 
+##  Acknowledgements
+This project uses the TIMIT Acoustic-Phonetic Continuous Speech Corpus, developed by the Linguistic Data Consortium (LDC). All rights and credits for the dataset go to its original creators.
+
 ##  Getting Started
 
 Follow these instructions to get the project up and running on your local machine.
